@@ -1,0 +1,33 @@
+@import url('https://fonts.cdnfonts.com/css/against-2');
+.typewriter-container {
+    text-align: center;
+}
+
+.typewriter-text {
+    font-size: 48px;
+    color: lightblue;
+    margin-bottom: 20px;
+    padding: 10px;
+    text-shadow: 10px 10px 10px 10px;
+    font-family: 'against', sans-serif;
+    padding: 10px;
+justify-content: center;}
+
+.text-1 {
+    color: orange;
+    font-size:50px;
+}
+
+.text-2 {
+    color: silver;
+        font-size: 50px;
+}
+
+.text-3 {
+    color: white;
+        font-size: 50px;
+}
+.mine{
+    height: 40px;
+    justify-content:center;
+}

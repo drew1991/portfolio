@@ -1,0 +1,21 @@
+.scroll-to-top-button {
+    position: fixed;
+    bottom: 20px;
+    right: 50%;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(90, 158, 180);
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 2px 2px 6px rgba(0,0,0,0.3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+  }
+  .scroll-to-top-button:hover{
+    background-color: orange;
+  }
+  
